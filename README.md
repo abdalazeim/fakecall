@@ -4,9 +4,9 @@
 
      ![ScrennShot](https://github.com/abdalazeim/fakecall/blob/master/call.png)
      
-##download it by: git clone https://github.com/abdalazeim/fakecall or download zip
+## download it by: git clone https://github.com/abdalazeim/fakecall or download zip
 
-#2 - put it in your file with another your tools and scripts
+# 2 - put it in your file with another your tools and scripts
 
 ## Make Free, Unlimited, Fake and Angry Calls
 You can simply enter enter someone's phone number and the tool will make some fake calls, sure you can set how many calls that tool will make and sleep between calls ( Seconds ).
